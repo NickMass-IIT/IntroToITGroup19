@@ -1,7 +1,7 @@
 # IntroToITGroup19
-Team Memeber:
+Team Member:
 Liam Conrad: s3829929
-Nicholas Massouridis
+Nicholas Massouridis: s3344701
 Paco Tse:
 Prottay Karim: s3822620
 Quang Minh Duong: s3759757
